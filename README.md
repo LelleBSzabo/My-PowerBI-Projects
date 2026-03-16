@@ -135,3 +135,7 @@ These skills are valuable for roles such as:
 - Business Intelligence Analyst  
 
 The project showcases the ability to **turn complex data into clear, interactive insights that support decision-making**.
+
+links to project
+- https://app.powerbi.com/groups/me/reports/f535a198-9f2a-4b6b-99cb-d239101f5120/0bd25eb282271b8bd842?experience=power-bi
+- https://app.powerbi.com/groups/me/reports/296e07f8-d64e-4f64-a4e6-e61a490a7e1e/b064d65f45a280485a7f?experience=power-bi
