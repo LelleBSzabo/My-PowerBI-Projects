@@ -136,17 +136,25 @@ These skills are valuable for roles such as:
 
 The project showcases the ability to **turn complex data into clear, interactive insights that support decision-making**.
 
+---
+
 ### Sales Report
 [Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiMTk4YTc0MDMtNGJlNi00NmZmLWEyYTgtZmY2MjI4Y2ZiNmE4IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="620" height="383" alt="image" src="https://github.com/user-attachments/assets/289b26d9-68a4-46ea-b839-f89eaaf05dd0" />
+
+---
 
 ### Executive Summary
 [Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiYzdmZTBiMTQtMDdhZC00MmIxLTg1YjMtZDRjNDFkZmFiOWZkIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="620" height="349" alt="image" src="https://github.com/user-attachments/assets/671e5217-5baa-4985-aa8c-9028b1d4b011" />
 
+---
+
 ### Excel + OData Visuals
 [Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiZGUzNTE3ZjYtYWRiYS00NGIxLWE2YzUtNjNlYjBjNmFlNDIzIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 <img width="620" height="354" alt="image" src="https://github.com/user-attachments/assets/79d543eb-9c9d-4938-a0e7-9497c1bca40c" />
+
+---
